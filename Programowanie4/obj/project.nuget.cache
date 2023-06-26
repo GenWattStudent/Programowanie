@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvT4XPZDsyX+IWK4l+gTKmBy+FR81adf09+XxRbBs4fPvekLc/g0G544+iFWyQMO69U31bOQhcMTm+jhmmRAyg==",
+  "success": true,
+  "projectFilePath": "D:\\Praca\\Programowanie4\\Programowanie4\\Programowanie4.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nuget\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "D:\\.nuget\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

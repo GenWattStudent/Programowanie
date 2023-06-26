@@ -1,0 +1,15 @@
+D:\Praca\Programowanie4\Dapperek\bin\Debug\net6.0\Dapperek.exe
+D:\Praca\Programowanie4\Dapperek\bin\Debug\net6.0\Dapperek.deps.json
+D:\Praca\Programowanie4\Dapperek\bin\Debug\net6.0\Dapperek.runtimeconfig.json
+D:\Praca\Programowanie4\Dapperek\bin\Debug\net6.0\Dapperek.dll
+D:\Praca\Programowanie4\Dapperek\bin\Debug\net6.0\Dapperek.pdb
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.csproj.AssemblyReference.cache
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.AssemblyInfoInputs.cache
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.AssemblyInfo.cs
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.csproj.CoreCompileInputs.cache
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.dll
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\refint\Dapperek.dll
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.pdb
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\Dapperek.genruntimeconfig.cache
+D:\Praca\Programowanie4\Dapperek\obj\Debug\net6.0\ref\Dapperek.dll

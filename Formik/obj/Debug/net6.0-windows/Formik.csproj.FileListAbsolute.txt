@@ -1,0 +1,12 @@
+D:\Praca\Programowanie4\Formik\bin\Debug\net6.0-windows\Formik.deps.json
+D:\Praca\Programowanie4\Formik\bin\Debug\net6.0-windows\Formik.dll
+D:\Praca\Programowanie4\Formik\bin\Debug\net6.0-windows\Formik.pdb
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.csproj.AssemblyReference.cache
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.AssemblyInfoInputs.cache
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.AssemblyInfo.cs
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.csproj.CoreCompileInputs.cache
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.dll
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\refint\Formik.dll
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\Formik.pdb
+D:\Praca\Programowanie4\Formik\obj\Debug\net6.0-windows\ref\Formik.dll

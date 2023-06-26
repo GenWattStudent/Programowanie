@@ -1,0 +1,12 @@
+D:\Praca\Programowanie4\RekrutacjaDB\bin\Debug\net6.0\RekrutacjaDB.deps.json
+D:\Praca\Programowanie4\RekrutacjaDB\bin\Debug\net6.0\RekrutacjaDB.dll
+D:\Praca\Programowanie4\RekrutacjaDB\bin\Debug\net6.0\RekrutacjaDB.pdb
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.csproj.AssemblyReference.cache
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.AssemblyInfoInputs.cache
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.AssemblyInfo.cs
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.csproj.CoreCompileInputs.cache
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.dll
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\refint\RekrutacjaDB.dll
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\RekrutacjaDB.pdb
+D:\Praca\Programowanie4\RekrutacjaDB\obj\Debug\net6.0\ref\RekrutacjaDB.dll

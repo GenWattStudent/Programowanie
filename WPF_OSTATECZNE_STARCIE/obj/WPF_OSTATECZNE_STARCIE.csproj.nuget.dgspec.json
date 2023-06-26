@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Praca\\Programowanie4\\WPF_OSTATECZNE_STARCIE\\WPF_OSTATECZNE_STARCIE.csproj": {}
+  },
+  "projects": {
+    "D:\\Praca\\Programowanie4\\WPF_OSTATECZNE_STARCIE\\WPF_OSTATECZNE_STARCIE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Praca\\Programowanie4\\WPF_OSTATECZNE_STARCIE\\WPF_OSTATECZNE_STARCIE.csproj",
+        "projectName": "WPF_OSTATECZNE_STARCIE",
+        "projectPath": "D:\\Praca\\Programowanie4\\WPF_OSTATECZNE_STARCIE\\WPF_OSTATECZNE_STARCIE.csproj",
+        "packagesPath": "D:\\.nuget",
+        "outputPath": "D:\\Praca\\Programowanie4\\WPF_OSTATECZNE_STARCIE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
